@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BoaviztApp</string>
+    <string name="network_error_message">
+        There was an error during the API request.
+    </string>
+    <string name="internet_connection_not_available">
+        No internet connection found.
+    </string>
+    <string name="toast_action_retry">Retry</string>
+    <string name="url_cpu_architectures">https://uppa.api.boavizta.org/v1/utils/cpu_family</string>
+    <string name="url_ssd_manufacturers">https://uppa.api.boavizta.org/v1/utils/ssd_manufacturer</string>
+    <string name="url_hdd_manufacturers">https://uppa.api.boavizta.org/v1/utils/ram_manufacturer</string>
+    <string name="url_countries">https://uppa.api.boavizta.org/v1/utils/country_code</string>
+    <string name="url_boavizta">https://boavizta.org/</string>
+</resources>

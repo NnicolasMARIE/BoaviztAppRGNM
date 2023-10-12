@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_global_warming">Global Warming Potential (kgCO2eq) - Total : </string>
+    <string name="description_global_warming">Evaluates the effect on global warming</string>
+
+    <string name="title_primary_energy">Primary energy (MJ) - Total : </string>
+    <string name="description_primary_energy">Consumption of energy resources</string>
+
+    <string name="title_ressource_exhausted">Abiotic Depletion Potential (kgSbeq) - Total : </string>
+    <string name="description_ressource_exhausted">Evaluates the use of minerals and fossil ressources</string>
+
+    <string-array name="label_top_bar">
+        <item>Use :</item>
+        <item>Manufacturing  :</item>
+    </string-array>
+    <string-array name="label_bottom_bar">
+        <item>none</item>
+        <item>Manufacturing  RAM :</item>
+        <item>Manufacturing  CPU :</item>
+        <item>Manufacturing  SSD :</item>
+        <item>Manufacturing  HDD :</item>
+        <item>Manufacturing Others Autres :</item>
+    </string-array>
+</resources>

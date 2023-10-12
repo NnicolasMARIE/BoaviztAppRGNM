@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" style="@themes/MenuTextStyle">
+
+    <item
+        android:id="@+id/server_configuration_menu_button"
+        android:enabled="true"
+        android:icon="@drawable/resultat2"
+        android:title="Configuration" />
+    <item
+        android:id="@+id/impact_visualisation_menu_button"
+        android:enabled="true"
+        android:icon="@drawable/impact"
+        android:title="Impact" />
+</menu>
